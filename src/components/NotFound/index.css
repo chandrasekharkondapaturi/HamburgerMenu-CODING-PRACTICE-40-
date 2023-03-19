@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.NotFound-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Not-found {
+  height: 50%;
+  width: 50%;
+}
